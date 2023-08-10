@@ -8,6 +8,7 @@ https://github.com/10xJSChad/cnake/assets/48174610/23725595-ab3c-4855-847e-8af91
 
 ### Dependencies
   * Linux, or possibly another UNIX-like (I haven't tried, but it should work.)
+  * Shell that supports cursor manipulation with escape codes (If you don't know if yours does, it does).
 
 ### Building
 * Compile it with something.
