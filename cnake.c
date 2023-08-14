@@ -28,6 +28,7 @@
 #define RANDINT(min, max)                   ((rand() % (max - min + 1)) + min);
 #define GAME_TICK_INTERVAL 100
 
+
 enum SnakeConstants {
     SNAKE_OBJTYPE = 1,
     SNAKE_SPRITE  = 'S',
